@@ -16,6 +16,12 @@ p {
     font-size: 14px;
     font-family: Arial
 }
+div
+{
+  background-color: blue;
+  text-align: center;
+}
+
 
 th, td {
     padding: 8px;
